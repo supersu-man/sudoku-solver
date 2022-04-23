@@ -1,0 +1,14 @@
+.form-control{
+    width: 30px;
+    height: 30px;
+    padding: 0px;
+    text-align: center;
+}
+
+table{
+    margin-bottom: 0px !important;
+}
+
+td{
+    border-bottom: none;
+}
